@@ -83,7 +83,6 @@ The system is designed to be:
 
 ## 📷 Media
 
-(Add project images, circuit diagrams, and demo video links here)
 
 ---
 
